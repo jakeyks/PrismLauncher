@@ -25,5 +25,9 @@
         <!-- https://commons.wikimedia.org/wiki/File:Teawie_Party.png -->
         <file alias="teawie-spooky">teawie-spooky.png</file>
         <!-- https://commons.wikimedia.org/wiki/File:Teawie_Halloween.png -->
+		<file alias="oddy">oddy.png</file>
+		<file alias="oddy-xmas">oddy-xmas.png</file>
+		<file alias="oddy-bday">oddy-bday.png</file>
+		<file alias="oddy-spooky">oddy-spooky.png</file>
     </qresource>
 </RCC>
